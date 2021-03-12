@@ -1,0 +1,163 @@
+/*header styles*/
+.logo {
+	display: inline-block;
+	margin-left:  10px;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin: 35px 22px;
+}
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: "ALK Sanet", sans-serif;
+}
+.container {
+	width: 1170px;
+	margin: 77px auto;
+}
+.active {
+	color: #EE4036;
+}
+.left-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 13px;
+	padding: 10px;
+}
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 10px;
+}
+.article-image {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+}
+.article-text {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #333333;
+	padding-left: 50px;
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize;
+	line-height: 30px;
+}
+.article-textt {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #333333;
+	padding-left: 50px;
+	font-family: 'Akaya Telivigala';
+	text-transform: capitalize;
+	line-height: 30px;
+}	
+.h4 {
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+}
+.h3 {
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+/*footer*/
+
+.divider {
+width: 1px;
+height: 27px;
+background-color: #363E97;
+margin-left: 15px;
+display: inline-block;
+margin-left: 36px;
+margin-right: 30px;
+}
+/*news page styles*/
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	margin-top: 36.13px;
+	margin-left: 34px;
+	padding: 5px;
+}	
+.month {
+	margin-left: 34px;
+	color: #3D58A6;
+	font-size: 22px;
+	margin-bottom: 23px;
+}
+.hr {
+	margin-left: 34px;
+	font-size: 20px;
+	font-family: 'BPG No9';
+	margin-bottom: 25px;
+}
+.news-img {
+	margin-left: 34px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.container-news {
+	width: 929px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: 'BPG No9';
+	text-indent: 30px;
+	vertical-align: top;
+}
+.news-txt {
+	font-size: 16px;
+	padding: 5px;
+	display: inline-block;
+	width: 929px
+}
+/*contact page styles*/
+.container-contact {
+	width: 1174px;
+	margin: 0 auto;
+}
+.contact-info {
+	color: #3D58A6;
+	font-size: 20px;
+	margin-bottom: 5px;
+	font-family: "ALK Sanet", sans-serif;
+}
+.contact-span {
+	color: #808080;
+	font-size: 16px;
+	font-family: "ALK Sanet", sans-serif;
+}
+.contact-page {
+	background-color: #E6E6E6;
+}
+.contact-left-block {
+	display: inline-block;
+	vertical-align: top;
+}
+.contact-right-block {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 50px;
+}
+.contact-a {
+	color: black;
+	font-family: "ALK Sanet", sans-serif;
+}
