@@ -126,8 +126,8 @@ margin-right: 30px;
 .news-txt {
 	font-size: 16px;
 	padding: 5px;
-	display: inline-block;
 	width: 929px
+	/*text-indent: 30px;*/
 }
 /*contact page styles*/
 .container-contact {
@@ -138,7 +138,7 @@ margin-right: 30px;
 	color: #3D58A6;
 	font-size: 20px;
 	margin-bottom: 5px;
-	font-family: "ALK Sanet", sans-serif;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 .contact-span {
 	color: #808080;
